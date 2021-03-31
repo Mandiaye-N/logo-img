@@ -1,2 +1,0 @@
-# logo-img
-Logo image
